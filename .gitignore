@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+venv_vector_rag/
+.env
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Python build
+dist/
+build/
+*.egg-info
+
+# Logs
+*.log
+
+# Docker
+.env
